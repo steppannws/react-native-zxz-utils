@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-zxz-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,11 @@
   ],
   "author": "",
   "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/steppannws/react-native-zxz-utils.git"
+  },
   "peerDependencies": {
-    "react-native": "^0.39.2"
+    "react-native": "^0.40.0"
   }
 }
