@@ -1,9 +1,7 @@
 function test() {
-	console.log('TEST');
+	return "test";
 }
 
-const Utils = {
+module.exports = {
 	test: test
-}
-
-module.exports = Utils;
+};
